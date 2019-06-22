@@ -1,6 +1,5 @@
 # InstagramClone-MobileApp
 Aplicação mobile feita em react-native consumindo API, projeto didático...
-> Aplicação da semana Omnistack 7
 
 - Necessario Backend/API para rodar essa aplicação : https://github.com/caiquealves224/InstagramClone-Backend
 
